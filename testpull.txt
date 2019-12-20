@@ -2,3 +2,4 @@ testing pulling a file from git
 pull worked, testing modified file
 
 if you forget to add "message" after commit -m <file> then do 'ecs' ':' 'wq' to save commit
+or it forces you to add a message?
